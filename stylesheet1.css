@@ -4,22 +4,24 @@
     background-color:white;
     margin: 0;
 }
-
+.header{
+/*
+    background: -moz-linear-gradient(45deg, #a0d3b1 0%, #29b8e5 26%, #c5eab2 60%, #c5eab2 60%, #a0d3aa 75%, #a0d3aa 75%, #a0d3aa 79%, #a0d3aa 79%, #a0d3aa 86%, #bce0ee 100%);
+    background: -webkit-linear-gradient(45deg, #a0d3b1 0%,#29b8e5 26%,#c5eab2 60%,#c5eab2 60%,#a0d3aa 75%,#a0d3aa 75%,#a0d3aa 79%,#a0d3aa 79%,#a0d3aa 86%,#bce0ee 100%);
+    background: linear-gradient(45deg, #a0d3b1 0%,#29b8e5 26%,#c5eab2 60%,#c5eab2 60%,#a0d3aa 75%,#a0d3aa 75%,#a0d3aa 79%,#a0d3aa 79%,#a0d3aa 86%,#bce0ee 100%); 
+*/
+/*    colour*/
+}
 .header
 {     
-  background-image: url(res/cover.jpg);
+  background-image: url(res/cover2.jpg);
    padding: 10px;
     background-repeat: no-repeat;
    background-size: cover;
 /*    align-content: center; */
 /*    image */
 }
-.header{
-    background: -moz-linear-gradient(45deg, #a0d3b1 0%, #29b8e5 26%, #c5eab2 60%, #c5eab2 60%, #a0d3aa 75%, #a0d3aa 75%, #a0d3aa 79%, #a0d3aa 79%, #a0d3aa 86%, #bce0ee 100%);
-    background: -webkit-linear-gradient(45deg, #a0d3b1 0%,#29b8e5 26%,#c5eab2 60%,#c5eab2 60%,#a0d3aa 75%,#a0d3aa 75%,#a0d3aa 79%,#a0d3aa 79%,#a0d3aa 86%,#bce0ee 100%);
-    background: linear-gradient(45deg, #a0d3b1 0%,#29b8e5 26%,#c5eab2 60%,#c5eab2 60%,#a0d3aa 75%,#a0d3aa 75%,#a0d3aa 79%,#a0d3aa 79%,#a0d3aa 86%,#bce0ee 100%); 
-/*    colour*/
-}
+
 .dp
 {  ;
     max-width: 100%;
@@ -36,12 +38,12 @@
     
 }
 .name
-{
+{   
     font-size: 10px;
-/*    display: block;*/
+    display: block;
     margin: 0%;
     padding: 0%;
-    position: relative;
+/*    position: relative;*/
     
 }
 /*########Nav bar##########*/
